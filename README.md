@@ -1,2 +1,1 @@
-# this is a project
-S
+# This is a TicTacToc project
